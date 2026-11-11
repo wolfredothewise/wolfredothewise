@@ -4,9 +4,7 @@
 
 ### 42 student · C/Python · Red team enthusiast
 
-<a href="https://github.com/wolfredothewise/libft">
-  <img src="https://img.shields.io/badge/42-Libft-00babc?style=for-the-badge&logo=42&logoColor=white" alt="Libft">
-</a>
+
 <a href="https://github.com/wolfredothewise?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects">
 </a>
@@ -16,7 +14,7 @@
 <br>
 
 
-## ✦ Projects
+## ✦ 42 Projects
 
 <table>
   <thead>
