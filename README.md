@@ -2,7 +2,7 @@
 
 # `wolfredothewise`
 
-### 42 student · C developer · low-level enthusiast
+### 42 student · C/Python · Red team enthusiast
 
 <a href="https://github.com/wolfredothewise/libft">
   <img src="https://img.shields.io/badge/42-Libft-00babc?style=for-the-badge&logo=42&logoColor=white" alt="Libft">
@@ -15,9 +15,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://badge.mediaplus.ma/greenbinary/vhedo-ga?UM6P=off" alt="42 stats">
-</div>
 
 ## ✦ Projects
 
