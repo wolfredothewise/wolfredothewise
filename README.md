@@ -33,7 +33,7 @@
       <sub>A personal C library built from scratch, covering essential functions and data structures.</sub>
     </td>
     <td align="right" width="130">
-      <img src="https://img.shields.io/badge/Score-125%2F100-4caf00?style=flat-square&labelColor=555555" alt="Score 116/100"><br>
+      <img src="https://img.shields.io/badge/Score-125%2F100-4caf00?style=flat-square&labelColor=555555" alt="Score 125/100"><br>
       <sub>C</sub>
     </td>
   </tr>
@@ -48,6 +48,19 @@
     <td align="right" width="130">
       <img src="https://img.shields.io/badge/Score-100%2F100-4caf00?style=flat-square&labelColor=555555" alt="Score 100/100"><br>
       <sub>C</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="70">
+      <img src="https://img.shields.io/badge/03-00babc?style=flat-square&labelColor=161b22" alt="Project 3">
+    </td>
+    <td>
+      <a href="https://github.com/wolfredothewise/ft_printf"><strong>ft_printf</strong></a><br>
+      <sub>A modular reimplementation of printf with variadic arguments, number formatting, pointers, and hexadecimal output.</sub>
+    </td>
+    <td align="right" width="130">
+      <img src="https://img.shields.io/badge/Score-100%2F100-4caf00?style=flat-square&labelColor=555555" alt="Score 100/100"><br>
+      <sub>C · 2025</sub>
     </td>
   </tr>
 </table>
