@@ -22,6 +22,13 @@
 ## ✦ Projects
 
 <table>
+  <thead>
+    <tr>
+      <th align="left">Milestone</th>
+      <th align="left">Project</th>
+      <th align="right">Score</th>
+    </tr>
+  </thead>
   <tr>
     <td width="70">
       <img src="https://img.shields.io/badge/01-00babc?style=flat-square&labelColor=161b22" alt="Project 1">
