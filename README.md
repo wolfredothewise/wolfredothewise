@@ -42,8 +42,8 @@
       <img src="https://img.shields.io/badge/02-00babc?style=flat-square&labelColor=161b22" alt="Project 2">
     </td>
     <td>
-      <a href="https://github.com/wolfredothewise/proyecto-prueba-2"><strong>Proyecto de prueba 2</strong></a><br>
-      <sub>Segundo ejemplo para validar el formato antes de añadir todos los proyectos del perfil.</sub>
+      <a href="https://github.com/wolfredothewise/get_next_line"><strong>get_next_line</strong></a><br>
+      <sub>A function that returns a line read from a file descriptor in C.</sub>
     </td>
     <td align="right" width="130">
       <img src="https://img.shields.io/badge/Score-100%2F100-4caf00?style=flat-square&labelColor=555555" alt="Score 100/100"><br>
