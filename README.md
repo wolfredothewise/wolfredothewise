@@ -30,8 +30,8 @@
       <a href="https://github.com/wolfredothewise/libft"><strong>Libft</strong></a><br>
       <sub>A personal C library built from scratch, covering essential functions and data structures.</sub>
     </td>
-    <td align="right" width="100">
-      <strong>100%</strong><br>
+    <td align="right" width="130">
+      <img src="https://img.shields.io/badge/Score-125%2F100-4caf00?style=flat-square&labelColor=555555" alt="Score 125/100"><br>
       <sub>C</sub>
     </td>
   </tr>
