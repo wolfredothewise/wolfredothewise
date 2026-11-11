@@ -1,7 +1,64 @@
+<div align="center">
 
-## Projects
+# `wolfredothewise`
 
-| Index | Project | Mark | Description | With | Language |
-|------:|---------|-----:|-------------|------|----------|
-| 1 | [Libft](https://github.com/wolfredothewise/libft) | 100% | Proyecto de ejemplo para comprobar que la tabla se ve bien en el perfil. |  | C |
-| 2 | [Proyecto de prueba 2](https://github.com/wolfredothewise/proyecto-prueba-2) | 100% | Segundo ejemplo para validar el formato antes de añadir todos tus proyectos. |  | C |
+### 42 student · C developer · low-level enthusiast
+
+<a href="https://github.com/wolfredothewise/libft">
+  <img src="https://img.shields.io/badge/42-Libft-00babc?style=for-the-badge&logo=42&logoColor=white" alt="Libft">
+</a>
+<a href="https://github.com/wolfredothewise?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://badge.mediaplus.ma/greenbinary/vhedo-ga?UM6P=off" alt="42 stats">
+</div>
+
+## ✦ Projects
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Milestone</th>
+      <th align="left">Project</th>
+      <th align="right">Score</th>
+    </tr>
+  </thead>
+  <tr>
+    <td width="70">
+      <img src="https://img.shields.io/badge/01-00babc?style=flat-square&labelColor=161b22" alt="Project 1">
+    </td>
+    <td>
+      <a href="https://github.com/wolfredothewise/libft"><strong>Libft</strong></a><br>
+      <sub>A personal C library built from scratch, covering essential functions and data structures.</sub>
+    </td>
+    <td align="right" width="130">
+      <img src="https://img.shields.io/badge/Score-125%2F100-4caf00?style=flat-square&labelColor=555555" alt="Score 125/100"><br>
+      <sub>C</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="70">
+      <img src="https://img.shields.io/badge/02-00babc?style=flat-square&labelColor=161b22" alt="Project 2">
+    </td>
+    <td>
+      <a href="https://github.com/wolfredothewise/proyecto-prueba-2"><strong>Proyecto de prueba 2</strong></a><br>
+      <sub>Segundo ejemplo para validar el formato antes de añadir todos los proyectos del perfil.</sub>
+    </td>
+    <td align="right" width="130">
+      <img src="https://img.shields.io/badge/Score-100%2F100-4caf00?style=flat-square&labelColor=555555" alt="Score 100/100"><br>
+      <sub>C</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <sub>Building things one function at a time.</sub>
+</div>
