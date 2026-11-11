@@ -4,7 +4,6 @@
 
 ### 42 student · C/Python · Red team enthusiast
 
-
 <a href="https://github.com/wolfredothewise?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects">
 </a>
@@ -12,7 +11,6 @@
 </div>
 
 <br>
-
 
 ## ✦ 42 Projects
 
@@ -57,6 +55,19 @@
     <td>
       <a href="https://github.com/wolfredothewise/ft_printf"><strong>ft_printf</strong></a><br>
       <sub>A modular reimplementation of printf with variadic arguments, number formatting, pointers, and hexadecimal output.</sub>
+    </td>
+    <td align="right" width="130">
+      <img src="https://img.shields.io/badge/Score-100%2F100-4caf00?style=flat-square&labelColor=555555" alt="Score 100/100"><br>
+      <sub>C · 2025</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="70">
+      <img src="https://img.shields.io/badge/04-00babc?style=flat-square&labelColor=161b22" alt="Project 4">
+    </td>
+    <td>
+      <a href="https://github.com/wolfredothewise/push_swap"><strong>push_swap</strong></a><br>
+      <sub>Stack-sorting algorithms in C using parsing, linked lists, operation optimisation and binary radix sort.</sub>
     </td>
     <td align="right" width="130">
       <img src="https://img.shields.io/badge/Score-100%2F100-4caf00?style=flat-square&labelColor=555555" alt="Score 100/100"><br>
