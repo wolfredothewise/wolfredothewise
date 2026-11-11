@@ -1,8 +1,44 @@
-[![vhedo-ga's 42 stats](https://badge.mediaplus.ma/greenbinary/vhedo-ga?UM6P=off)](https://github.com/oakoudad/badge42)
+<div align="center">
 
-## Projects
+# `wolfredothewise`
 
-| Index | Project | Mark | Description | With | Language |
-|------:|---------|-----:|-------------|------|----------|
-| 1 | [Proyecto de prueba 1](https://github.com/wolfredothewise/proyecto-prueba-1) | 100% | Proyecto de ejemplo para comprobar que la tabla se ve bien en el perfil. |  | C |
-| 2 | [Proyecto de prueba 2](https://github.com/wolfredothewise/proyecto-prueba-2) | 100% | Segundo ejemplo para validar el formato antes de añadir todos tus proyectos. |  | C |
+### 42 student · C developer · low-level enthusiast
+
+<a href="https://github.com/wolfredothewise/libft">
+  <img src="https://img.shields.io/badge/42-Libft-00babc?style=for-the-badge&logo=42&logoColor=white" alt="Libft">
+</a>
+<a href="https://github.com/wolfredothewise?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://badge.mediaplus.ma/greenbinary/vhedo-ga?UM6P=off" alt="42 stats">
+</div>
+
+## ✦ Projects
+
+<table>
+  <tr>
+    <td width="70">
+      <img src="https://img.shields.io/badge/01-00babc?style=flat-square&labelColor=161b22" alt="Project 1">
+    </td>
+    <td>
+      <a href="https://github.com/wolfredothewise/libft"><strong>Libft</strong></a><br>
+      <sub>A personal C library built from scratch, covering essential functions and data structures.</sub>
+    </td>
+    <td align="right" width="100">
+      <strong>100%</strong><br>
+      <sub>C</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <sub>Building things one function at a time.</sub>
+</div>
