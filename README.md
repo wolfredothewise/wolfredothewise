@@ -74,6 +74,19 @@
       <sub>C · 2025</sub>
     </td>
   </tr>
+  <tr>
+    <td width="70">
+      <img src="https://img.shields.io/badge/05-00babc?style=flat-square&labelColor=161b22" alt="Project 5">
+    </td>
+    <td>
+      <a href="https://github.com/wolfredothewise/Born2beroot"><strong>Born2beRoot</strong></a><br>
+      <sub>Secure Linux server administration with LVM, encryption, SSH hardening, firewall policies and system monitoring.</sub>
+    </td>
+    <td align="right" width="130">
+      <img src="https://img.shields.io/badge/Score-110%2F100-4caf00?style=flat-square&labelColor=555555" alt="Score 110/100"><br>
+      <sub>Linux · 2025</sub>
+    </td>
+  </tr>
 </table>
 
 <br>
