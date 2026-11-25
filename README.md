@@ -87,6 +87,19 @@
       <sub>Linux · 2025</sub>
     </td>
   </tr>
+  <tr>
+    <td width="70">
+      <img src="https://img.shields.io/badge/06-00babc?style=flat-square&labelColor=161b22" alt="Project 6">
+    </td>
+    <td>
+      <a href="https://github.com/wolfredothewise/Call-Me-Maybe"><strong>Call Me Maybe</strong></a><br>
+      <sub>An offline prototype that uses constrained decoding to turn prompts into structured JSON function calls for local LLMs.</sub>
+    </td>
+    <td align="right" width="130">
+      <img src="https://img.shields.io/badge/Score-110%2F100-4caf00?style=flat-square&labelColor=555555" alt="Score 110/100"><br>
+      <sub>Python · LLM</sub>
+    </td>
+  </tr>
 </table>
 
 <br>
